@@ -11,3 +11,4 @@
 4. Создать файлы "notes.txt", "log.txt", ".gitignore" и добавить файл "log.txt" в ".gitignore".
 5. Создать новую ветку 'feature-branch' в репозитории my-git-repo, добавить новую строку в файл "index.html" в ветке 'feature-branch', изменить существующую строку в основной ветке и разрешить конфликты при слиянии веток в файле "index.html".
 
+Second changing of README 
